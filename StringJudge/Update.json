@@ -1,0 +1,11 @@
+﻿{
+  "server": {
+    "credential": "\\\\172.27.36.32;kk07user;nstd@2018",
+    "program": "\\\\172.27.36.32\\kk07\\13 SFC\\叶银旭\\3_Update\\StringJudgeRelease\\StringJudge.exe",
+    "folder": "\\\\172.27.36.32\\kk07\\13 SFC\\叶银旭\\3_Update\\StringJudgeRelease"
+  },
+  "local": {
+    "preserveFile": [],
+    "preserveFolder": []
+  }
+}
